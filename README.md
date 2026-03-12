@@ -75,7 +75,7 @@ No frameworks. No build pipeline. No dependencies. Pure browser-native code — 
 
 ## Context & Background
 
-This tool was built to support **[Flow State Weekly](https://flowstateweekly.substack.com)** — an institutional Bitcoin flow intelligence newsletter tracking ETF flows, on-chain whale movements, and derivatives positioning.
+This tool was built to support **[Flow State Weekly](https://flowstatweekly.substack.com)** — an institutional Bitcoin flow intelligence newsletter tracking ETF flows, on-chain whale movements, and derivatives positioning.
 
 The analytical framework powering this dashboard is the same one used to produce weekly intelligence for professional crypto traders and institutional allocators.
 
@@ -111,7 +111,7 @@ Or just visit the **[live deployment](https://Oxsimba.github.io/flow-state-dashb
 
 Built by **Simba** ([@0xbrel](https://twitter.com/0xbrel)) — crypto analyst and author of Flow State Weekly. Based in Tanzania. Tracking institutional Bitcoin flows since 2025.
 
-**Newsletter:** [flowstateweekly.substack.com](https://flowstateweekly.substack.com)
+**Newsletter:** [flowstatweekly.substack.com](https://flowstatweekly.substack.com)
 **Twitter/X:** [@0xbrel](https://twitter.com/0xbrel)
 
 ---
